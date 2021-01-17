@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 14 21:03:55 2021
-
-@author: hajar
-"""
-
 import rospy
 import unittest
 from std_msgs.msg import Float32MultiArray
